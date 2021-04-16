@@ -2,7 +2,6 @@
 <h2 align="center">Mid-Level Flutter Developer</h2>
 <h3 align="center">Dynamic and creative software developer with analytical skills and experience in designing, developing, integrating, and supporting Flutter applications for mobile, tablet, desktop and web, always trying to learn and explore new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelbokl" alt="mahmoudelbokl" /> </p>
 
 ## 🚀 Experience and Technical skills:
 - Build Android and iOS applications and work on adding and enhancing features.
