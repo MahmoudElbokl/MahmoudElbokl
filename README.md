@@ -32,4 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudelbokl&layout=compact" alt="mahmoudelbokl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelbokl&show_icons=true" alt="mahmoudelbokl" /></p>
