@@ -19,7 +19,7 @@
 - Experience with bug fixing and improving application performance.
 - Outstanding debugging and refactoring skills.
 - Familiarity with unit testing.
-- Familiarity with App store, play store and App galary store submission.
+- Familiarity with App store, Play store and App galary store submission.
 - Familiarity with code versioning tools.
 
 
