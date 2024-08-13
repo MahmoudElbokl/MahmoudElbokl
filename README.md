@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elbokl</h1>
 <h2 align="center">Flutter Developer</h2>
-<h3 align="center">Dynamic and creative software developer with analytical skills and experience in designing, developing, integrating, and supporting Flutter applications for mobile, tablet and web, always trying to learn and explore new technologies.</h3>
+<h3 align="center">Dynamic and creative software developer with with 5+ years of experience architecting, developing, and deploying robust mobile applications. I have successfully delivered 15+ projects, enhancing user satisfaction and driving business growth. My skills include state management, API integration, performance optimization, and clean code practices. I excel in collaborative environments, leading project teams, and mentoring junior developers. My innovative problem-solving abilities and dedication to excellence make me a valuable asset to any team.</h3>
 
 
 ## 🚀 Experience and Technical skills:
@@ -10,6 +10,8 @@
 - Experience working with remote data via REST APIs, GraphQL and JSON.
 - Experience working with local data such as Sqlite, Hive and Shared Preferences.
 - Experience with Localizations and multilingual.
+- Experience with Video calling and Live video straming.
+- Experience with Security and data protection.
 - Experience with third-party libraries and APIs.
 - Experience with Firebase different tools including auth, analytics, crashlytics, storage and databases.
 - Experience with deep linking.
@@ -18,7 +20,8 @@
 - Experience with Facebook and Apple auth APIs.
 - Experience with bug fixing and improving application performance.
 - Outstanding debugging and refactoring skills.
-- Familiarity with unit testing.
+- Familiarity with unit, widget and integration testing.
+- Experience with CI/CD.
 - Familiarity with App store, Play store and App galary store submission.
 - Familiarity with code versioning tools.
 
