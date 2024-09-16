@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elbokl</h1>
-<h2 align="center">Flutter Developer</h2>
+<h2 align="center">Senior Flutter Developer / Mobile Team Lead</h2>
 <h3 align="center">Dynamic and creative software developer with with 5+ years of experience architecting, developing, and deploying robust mobile applications. I have successfully delivered 15+ projects, enhancing user satisfaction and driving business growth. My skills include state management, API integration, performance optimization, and clean code practices. I excel in collaborative environments, leading project teams, and mentoring junior developers. My innovative problem-solving abilities and dedication to excellence make me a valuable asset to any team.</h3>
 
 
